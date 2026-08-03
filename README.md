@@ -17,10 +17,10 @@ Legend:
 
 ## Engines and Libraries
 
-- [Castagne Engine (Godot/Supports Rollback)](https://castagneengine.com) - Custom game engine for fighting games written on top of Godot. Uses its own scripting language.
-- [Sakuga Engine (Godot/Supports Rollback))](https://github.com/NoisyChain/Sakuga-Engine) - Fighting game framework written on top of Godot. Requires C#/.NET
-- [Night Sky Engine (Unreal/Supports Rollback)](https://github.com/WistfulHopes/NightSkyEngine) - Fighting game framework written on top of Unreal. Uses blueprints directly instead of a custom scripting layer.
-- [IKEMEN (Standalone/Supports Rollback)](https://ikemen-engine.github.io/) - Open source remake of the famous MUGEN fighting game engine written in Go.
+- [Castagne Engine (Godot, has Rollback)](https://castagneengine.com) - Game engine for fighting and action games focused on efficiency and flexibility. Uses its own custom language and editor.
+- [Sakuga Engine (Godot, has Rollback))](https://github.com/NoisyChain/Sakuga-Engine) - Fighting game framework written on top of Godot, using resources to specify movesets. Requires C#/.NET.
+- [Night Sky Engine (Unreal, has Rollback)](https://github.com/WistfulHopes/NightSkyEngine) - Fighting game framework written on top of Unreal. Uses blueprints directly instead of a custom scripting layer.
+- [IKEMEN (Standalone, has Rollback)](https://ikemen-engine.github.io/) - Open source remake of the famous MUGEN fighting game engine written in Go. Uses its own language and can be extended with LUA. Massive vault of standalone characters made over the years.
 
 ## Game Development
 
