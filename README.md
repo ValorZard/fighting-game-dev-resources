@@ -2,8 +2,8 @@
 Collection of resources about how to make fighting games (of all types)
 
 ## Guidelines for adding new content
-1. Only add resources that DIRECTLY RELATE to fighting games.
-`- If a resource is a general pixel art tool or motivation advice or anything that isn't directly applicable to fighting games or real time action combat, it doesn't belong here.
+1. Add an 1-3 sentence explanation of how this link or resource DIRECTLY relates to fighting games. 
+- For example, if you add an article about state machines, you must then explain why state machines are important to fighting games and why reading this article will make you understand their usefulness better.
 2. We accept resources for all types of fighting games, including platform fighters and arena fighters. 
 - Resources relating to Beat 'em ups like Streets of Rage and Devil May Cry are okay too, since they come from a very similar design lineage.
 - Real time action combat in general has a lot of the same design principles and limitations. Both For Honor and Street Fighter use the same basic networking model! (Peer-to-peer deterministic rollback netcode)
