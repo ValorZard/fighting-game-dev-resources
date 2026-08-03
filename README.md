@@ -1,5 +1,8 @@
-# fighting-game-dev-resources
-Collection of resources about how to make fighting games (of all types)
+# Fighting Game Development Resources
+Collection of resources about how to make fighting games of all types, sorted by categories.
+
+Legend:
+- ⭐ Key or high quality ressource
 
 ## Guidelines for adding new content
 1. Add an 1-3 sentence explanation of how this link or resource DIRECTLY relates to fighting games. 
@@ -10,21 +13,38 @@ Collection of resources about how to make fighting games (of all types)
 3. No Gen AI. We want to have articles and videos made by actual real humans who have made real games, not AI hallucinations that may not actually be true.
 4. Try to link to something that has been archived. Stuff like Twitter/X links can get deleted or lost to the mists of time. If you DO want to link to a social media post, make sure it has been backed up somewhere first and link to that backup.
 
+# General
+
 ## Engines and Libraries
 
-- [Castagne Engine (Godot/Supports Rollback)](https://castagneengine.com) - Custom game engine for fighting games written on top of Godot. Uses its own scripting language.
-- [Sakuga Engine (Godot/Supports Rollback))](https://github.com/NoisyChain/Sakuga-Engine) - Fighting game framework written on top of Godot. Requires C#/.NET
-- [Night Sky Engine (Unreal/Supports Rollback)](https://github.com/WistfulHopes/NightSkyEngine) - Fighting game framework written on top of Unreal. Uses blueprints directly instead of a custom scripting layer.
-- [IKEMEN (Standalone/Supports Rollback)](https://ikemen-engine.github.io/) - Open source remake of the famous MUGEN fighting game engine written in Go.
+- [Castagne Engine (Godot)](https://castagneengine.com)
+- [Sakuga Engine (Godot)](https://github.com/NoisyChain/Sakuga-Engine)
+- [Night Sky Engine (Unreal)](https://github.com/WistfulHopes/NightSkyEngine)
+- [IKEMEN (Standalone)](https://ikemen-engine.github.io/)
 
-## Useful Documentaries
+## Game Development
 
-This documentary on KI is excellent, highly recommend https://youtu.be/ks4eZoG94Vs
+- ⭐ [Excellent documentary on Killer Instinct's development](https://youtu.be/ks4eZoG94Vs)
+
+# Technical / Programming
+
+## Networking
+
+- ⭐ [Repository of resources on game networking](https://github.com/0xFA11/MultiplayerNetworkingResources)
+
+https://ruoyusun.com/2019/03/29/game-networking-2.html
+https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9
+An interesting thread that I found on Twitter thanks to @Rod F https://yal.cc/preparing-your-game-for-deterministic-netcode/ 
+https://bymuno.com/post/rollback
+
+# Graphics and Sound
 
 ## Art/Animation
-- Rash's post on [how to retarget animations in Godot 4](https://www.tumblr.com/rashs-silly-little-games/794913858782478336/how-to-retarget-animations-in-godot-4x)
+- Rash's post on [how to retarget animations in Godot 4](https://www.tumblr.com/rashs-silly-little-games/794913858782478336/how-to-retarget-animations-in-godot-4x) (reuse an animation from one model to another)
 
-## Game Design
+# Design
+
+## General Game Design
 
 Core-A gaming is essentially required reading for anyone trying to make a fighting game https://www.youtube.com/playlist?list=PLWIbhIYLOq-T7XwgHe2y2hBE8Zr_yeODi
 
@@ -36,19 +56,8 @@ Also add Sugarpunch Design Works. Great for learning about animation basics and 
 
 Once I was asked about how I implemented the AI in my game. I might share that info here again. Don't know if it counts as learning material. Feel free to move it/remove it! [Twitter thread] https://twitter.com/AndreaDProjects/status/1086641395740352513?s=20
 
-## Networking
 
-**Note: you really should look at this repository for much more networking resources: https://github.com/0xFA11/MultiplayerNetworkingResources**
-
-https://ruoyusun.com/2019/03/29/game-networking-2.html
-
-https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9
-
-An interesting thread that I found on Twitter thanks to @Rod F https://yal.cc/preparing-your-game-for-deterministic-netcode/ 
-
-https://bymuno.com/post/rollback
-
-## Unsorted
+# Unsorted
 
 https://www.youtube.com/watch?v=QWmMd6ZDzBs&list=PL9xFJVKA6fkjAk06xpIbQ2WbwkA9CgsCH&index=2&t=0s
 
