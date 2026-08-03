@@ -1,19 +1,38 @@
 # fighting-game-dev-resources
 Collection of resources about how to make fighting games (of all types)
 
-
-Core-A gaming is essentially required reading for anyone trying to make a fighting game https://www.youtube.com/playlist?list=PLWIbhIYLOq-T7XwgHe2y2hBE8Zr_yeODi
+## useful documentaries
 
 This documentary on KI is also excellent, highly recommend https://youtu.be/ks4eZoG94Vs
 
-Core A Gaming is pretty much essential watching at this point. I also highly recommend Novril Tataki's channel for similar reasons. Several video series, that are meant to teach new players, but are actually great for devs as well. Their older series on Guilty Gear character tutorials also helped me designing movesets. https://www.youtube.com/user/novriltataki
+## Art/Animation
+https://www.tumblr.com/rashs-silly-little-games/794913858782478336/how-to-retarget-animations-in-godot-4x?source=share
 
+## Game Design
+
+Core-A gaming is essentially required reading for anyone trying to make a fighting game https://www.youtube.com/playlist?list=PLWIbhIYLOq-T7XwgHe2y2hBE8Zr_yeODi
+
+Core A Gaming is pretty much essential watching at this point. I also highly recommend Novril Tataki's channel for similar reasons. Several video series, that are meant to teach new players, but are actually great for devs as well. Their older series on Guilty Gear character tutorials also helped me designing movesets. https://www.youtube.com/user/novriltataki
 
 Also add Sugarpunch Design Works. Great for learning about animation basics and sometimes game feel. Not entirely focused on fighting games though. https://youtu.be/s4HKw7Hqqd0
 
 (Sugarpunch definitely has some worthwhile insights, but he also spews out a lot of "hot takes" so take what he says with a grain of salt)
 
 Once I was asked about how I implemented the AI in my game. I might share that info here again. Don't know if it counts as learning material. Feel free to move it/remove it! [Twitter thread] https://twitter.com/AndreaDProjects/status/1086641395740352513?s=20
+
+## Networking
+
+**Note: you really should look at this repo for much more networking resources: https://github.com/0xFA11/MultiplayerNetworkingResources**
+
+https://ruoyusun.com/2019/03/29/game-networking-2.html
+
+https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9
+
+An interesting thread that I found on Twitter thanks to @Rod F https://yal.cc/preparing-your-game-for-deterministic-netcode/ 
+
+https://bymuno.com/post/rollback
+
+## Unsorted
 
 https://www.youtube.com/watch?v=QWmMd6ZDzBs&list=PL9xFJVKA6fkjAk06xpIbQ2WbwkA9CgsCH&index=2&t=0s
 
@@ -25,17 +44,11 @@ https://twitter.com/mauvecow/status/1182084533035757568?s=20 a very interesting 
 
 https://www.youtube.com/watch?v=7jb0FOcImdg
 
-https://ruoyusun.com/2019/03/29/game-networking-2.html
-
 https://youtu.be/Mw0h9WmBlsw
 
 https://youtu.be/uDqjIdI4bF4
 
 http://glossary.infil.net/
-
-https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9
-
-An interesting thread that I found on Twitter thanks to @Rod F https://yal.cc/preparing-your-game-for-deterministic-netcode/ 
 
 https://manual.yoyogames.com/GameMaker_Language/GML_Reference/Networking/Networking.htm
 
@@ -233,10 +246,6 @@ https://github.com/Ensteq/ToonShadingCollection/tree/main
 https://www.youtube.com/@takimarueffect_tips
 
 https://lospec.com/ 
-
-https://www.tumblr.com/rashs-silly-little-games/794913858782478336/how-to-retarget-animations-in-godot-4x?source=share
-
-https://www.tumblr.com/rashs-silly-little-games/794913858782478336/how-to-retarget-animations-in-godot-4x?source=share
 
 https://www.youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU
 
