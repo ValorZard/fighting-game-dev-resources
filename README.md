@@ -10,12 +10,19 @@ Collection of resources about how to make fighting games (of all types)
 3. No Gen AI. We want to have articles and videos made by actual real humans who have made real games, not AI hallucinations that may not actually be true.
 4. Try to link to something that has been archived. Stuff like Twitter/X links can get deleted or lost to the mists of time. If you DO want to link to a social media post, make sure it has been backed up somewhere first and link to that backup.
 
+## Engines and Libraries
+
+- [Castagne Engine (Godot)](https://castagneengine.com)
+- [Sakuga Engine (Godot)](https://github.com/NoisyChain/Sakuga-Engine)
+- [Night Sky Engine (Unreal)](https://github.com/WistfulHopes/NightSkyEngine)
+- [IKEMEN (Standalone)](https://ikemen-engine.github.io/)
+
 ## Useful Documentaries
 
 This documentary on KI is excellent, highly recommend https://youtu.be/ks4eZoG94Vs
 
 ## Art/Animation
-https://www.tumblr.com/rashs-silly-little-games/794913858782478336/how-to-retarget-animations-in-godot-4x?source=share
+- Rash's post on [how to retarget animations in Godot 4](https://www.tumblr.com/rashs-silly-little-games/794913858782478336/how-to-retarget-animations-in-godot-4x)
 
 ## Game Design
 
