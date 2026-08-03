@@ -12,10 +12,10 @@ Collection of resources about how to make fighting games (of all types)
 
 ## Engines and Libraries
 
-- [Castagne Engine (Godot)](https://castagneengine.com)
-- [Sakuga Engine (Godot)](https://github.com/NoisyChain/Sakuga-Engine)
-- [Night Sky Engine (Unreal)](https://github.com/WistfulHopes/NightSkyEngine)
-- [IKEMEN (Standalone)](https://ikemen-engine.github.io/)
+- [Castagne Engine (Godot/Supports Rollback)](https://castagneengine.com) - Custom game engine for fighting games written on top of Godot. Uses its own scripting language.
+- [Sakuga Engine (Godot/Supports Rollback))](https://github.com/NoisyChain/Sakuga-Engine) - Fighting game framework written on top of Godot. Requires C#/.NET
+- [Night Sky Engine (Unreal/Supports Rollback))](https://github.com/WistfulHopes/NightSkyEngine) - Fighting game framework written on top of Unreal. Uses blueprints directly instead of a custom scripting layer.
+- [IKEMEN (Standalone/Supports Rollback))](https://ikemen-engine.github.io/) - Open source remake of the famous MUGEN fighting game engine written in Go.
 
 ## Useful Documentaries
 
