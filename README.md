@@ -1,9 +1,18 @@
 # fighting-game-dev-resources
 Collection of resources about how to make fighting games (of all types)
 
-## useful documentaries
+## Guidelines for adding new content
+1. Only add resources that DIRECTLY RELATE to fighting games.
+`- If a resource is a general pixel art tool or motivation advice or anything that isn't directly applicable to fighting games or real time action combat, it doesn't belong here.
+2. We accept resources for all types of fighting games, including platform fighters and arena fighters. 
+- Resources relating to Beat 'em ups like Streets of Rage and Devil May Cry are okay too, since they come from a very similar design lineage.
+- Real time action combat in general has a lot of the same design principles and limitations. Both For Honor and Street Fighter use the same basic networking model! (Peer-to-peer deterministic rollback netcode)
+3. No Gen AI. We want to have articles and videos made by actual real humans who have made real games, not AI hallucinations that may not actually be true.
+4. Try to link to something that has been archived. Stuff like Twitter/X links can get deleted or lost to the mists of time. If you DO want to link to a social media post, make sure it has been backed up somewhere first and link to that backup.
 
-This documentary on KI is also excellent, highly recommend https://youtu.be/ks4eZoG94Vs
+## Useful Documentaries
+
+This documentary on KI is excellent, highly recommend https://youtu.be/ks4eZoG94Vs
 
 ## Art/Animation
 https://www.tumblr.com/rashs-silly-little-games/794913858782478336/how-to-retarget-animations-in-godot-4x?source=share
@@ -22,7 +31,7 @@ Once I was asked about how I implemented the AI in my game. I might share that i
 
 ## Networking
 
-**Note: you really should look at this repo for much more networking resources: https://github.com/0xFA11/MultiplayerNetworkingResources**
+**Note: you really should look at this repository for much more networking resources: https://github.com/0xFA11/MultiplayerNetworkingResources**
 
 https://ruoyusun.com/2019/03/29/game-networking-2.html
 
