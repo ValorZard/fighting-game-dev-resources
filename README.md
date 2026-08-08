@@ -50,6 +50,8 @@ https://bymuno.com/post/rollback
 
 ## General Game Design
 
+- ⭐ [Infil's Fighting Game Glossary](https://glossary.infil.net/)
+
 Core-A gaming is essentially required reading for anyone trying to make a fighting game https://www.youtube.com/playlist?list=PLWIbhIYLOq-T7XwgHe2y2hBE8Zr_yeODi
 
 Core A Gaming is pretty much essential watching at this point. I also highly recommend Novril Tataki's channel for similar reasons. Several video series, that are meant to teach new players, but are actually great for devs as well. Their older series on Guilty Gear character tutorials also helped me designing movesets. https://www.youtube.com/user/novriltataki
