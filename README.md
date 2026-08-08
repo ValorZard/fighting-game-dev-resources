@@ -25,15 +25,19 @@ Legend:
 ## Game Development
 
 - ⭐ [Excellent documentary on Killer Instinct's development](https://youtu.be/ks4eZoG94Vs)
+- ⭐ [I Wanna Make a Fighting Game - Tutorial series](https://andrea-jens.medium.com/i-wanna-make-a-fighting-game-a-practical-guide-for-beginners-part-1-2021-update-955a4672eea5)
 
 # Technical / Programming
+
+## Game Inputs
+- [Input Buffering, Action Canceling, and also Forbidden Knowledge](https://medium.com/@yosispring/input-buffering-action-canceling-and-also-forbidden-knowledge-47a3f8a95151)
 
 ## Networking
 
 - ⭐ [Repository of resources on game networking](https://github.com/0xFA11/MultiplayerNetworkingResources)
+- [Visual guide to how rollback network works](https://bymuno.com/post/rollback) - made by someone who worked on Rivals of Aether and Animation Versus
+- ⭐ [Rollback Netcode Pseudocode](https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9) - THE algorithm on how rollback netcode works
 
-https://ruoyusun.com/2019/03/29/game-networking-2.html
-https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9
 An interesting thread that I found on Twitter thanks to @Rod F https://yal.cc/preparing-your-game-for-deterministic-netcode/ 
 https://bymuno.com/post/rollback
 
@@ -107,10 +111,6 @@ https://www.jacksondunstan.com/articles/3577
 
 https://mobile.twitter.com/YosiSpring/status/1548408537931399178
 
-https://andrea-jens.medium.com/i-wanna-make-a-fighting-game-a-practical-guide-for-beginners-part-6-311c51ab21c4
-
-https://medium.com/@yosispring/input-buffering-action-canceling-and-also-forbidden-knowledge-47a3f8a95151
-
 https://www.youtube.com/playlist?list=PLwXxbJKDwxSUexU-RyPXHYSeq--8pXEON
 
 https://www.schellgames.com/blog/the-definitive-guide-to-playtest-questions
@@ -178,8 +178,6 @@ https://packetlosstest.com/
 https://www.youtube.com/watch?v=-_fP93WDq9w
 
 https://www.reddit.com/r/godot/comments/171rt0q/cursos_y_tutoriales_para_aprender_godot_engine/
-
-https://bymuno.com/post/rollback
 
 https://www.youtube.com/watch?v=2MB9cAwC0Nw
 
