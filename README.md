@@ -22,6 +22,9 @@ Legend:
 - [Night Sky Engine (Unreal, has Rollback)](https://github.com/WistfulHopes/NightSkyEngine) - Fighting game framework written on top of Unreal. Uses blueprints directly instead of a custom scripting layer.
 - [IKEMEN (Standalone, has Rollback)](https://ikemen-engine.github.io/) - Open source remake of the famous MUGEN fighting game engine written in Go. Uses its own language and can be extended with LUA. Massive vault of standalone characters made over the years.
 
+## Templates
+- [Godot Rollback Fighter Demo](https://github.com/blast-harbour/Godot-Rollback-Fighter-Demo) - Uses Godot 4, has fully deterministic rollback netcode thanks to the Delta Rollback addon.
+
 ## Game Development
 
 - ⭐ [Excellent documentary on Killer Instinct's development](https://youtu.be/ks4eZoG94Vs)
@@ -29,12 +32,17 @@ Legend:
 
 # Technical / Programming
 
+## General Game Programming
+- [Gamedev Class - Gameplay Programming](https://www.youtube.com/watch?v=w9W3GpFFIbM) - Talk given by the creator of the Castagne Engine, Panthavma, about of couple of important game development concepts you should know, especially if you are using Godot.
+- [Math for Game Devs [2022]](https://www.youtube.com/playlist?list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF) - series by Freya Holmér, who is one of the best game dev youtubers when it comes to explaining important foundational concepts well.
+
 ## Game Inputs
 - [Input Buffering, Action Canceling, and also Forbidden Knowledge](https://medium.com/@yosispring/input-buffering-action-canceling-and-also-forbidden-knowledge-47a3f8a95151)
 
 ## Networking
 
 - ⭐ [Repository of resources on game networking](https://github.com/0xFA11/MultiplayerNetworkingResources)
+- ⭐ [Netcode - Explaining how fighting games use delay-based and rollback netcode](https://words.infil.net/w02-netcode.html) - This is THE resource on how netcode in fighting games works. This article is really all you need to understand how to implement rollback in your own games from scratch.
 - [Visual guide to how rollback network works](https://bymuno.com/post/rollback) - made by someone who worked on Rivals of Aether and Animation Versus
 - ⭐ [Rollback Netcode Pseudocode](https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9) - THE algorithm on how rollback netcode works
 - ⭐ [GekkoNet](https://github.com/HeatXD/GekkoNet) - Modern replacement/spiritual successor to GGPO.
@@ -49,11 +57,15 @@ https://bymuno.com/post/rollback
 ## Art/Animation - General
 *Note: While this repository is meant for advice that can help fighting game developers specifically, we thought it would still be nice to offer a curated selection of art resources for those who want to learn how to get started with art in games.*
 - ⭐ [12 Principles of Animation (Official Full Series)](https://www.youtube.com/watch?v=uDqjIdI4bF4)
+- [Figure Drawing for Animators - Playlist](https://www.youtube.com/watch?v=x-EHFaGoMKI&list=PLgKJMTFp_25hSRyqEshZ1zuDJI22PGmag)
 
 ## Art/Animation - Real Time Action Combat
 - ⭐ [Making Fluid and Powerful Animations For 'Skullgirls' - GDC 2014](https://www.youtube.com/watch?v=Mw0h9WmBlsw) - Talk by the Lead Animator on the fighting game Skullgirls on how animators are done in that game.
 
-## Graphics Programming - Stylized
+## 3D Modeling
+- [Create Animated Low Poly Characters in Blender (2024)](https://www.youtube.com/playlist?list=PLcaQc6eQjXCzYski4EEr-iRfdkXkX-P3g) - Step by step tutorial series on how to create your own stylized Blender character model and rig.
+
+## Graphics Programming - Stylized/NPR
 - [From mobile to high-end PC: Achieving high quality anime style rendering on Unity](https://youtu.be/egHSE0dpWRw?si=eR1fYJKz4ENuQN8v) - Talk given by miHoYo's lead technical developer on how they achieve the look of Honkai/Genshin Impact
 - [From Mobile to Console: Genshin Impact's rendering technology on Console](https://youtu.be/00QugD5u1CU?si=N2TGlAd3AqzScsfr) - Another talk by miHoYo about how they achieved the look of Genshin Impact. (Note: even though the video's title is in Korean, the actual talk is in English.)
 - ⭐ [GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D](https://youtu.be/yhGjCzxJV3E?si=IP7BnpiQGauACJtE) - THE talk if you want to understand how Arc System Works achieves the look they've become famous for in their fighting games.
@@ -65,6 +77,8 @@ https://bymuno.com/post/rollback
 ## General Game Design
 
 - ⭐ [Infil's Fighting Game Glossary](https://glossary.infil.net/)
+- [09 to '19: A Decade of Approachability in Fighting Games - GDC 2019](https://youtu.be/TivpMwuGzeM) - Talk given by one of the Iron Galaxy developers who worked on Killer Instinct seasons 2 and 3.
+- ⭐ [Game Balance Isn't Real](https://youtu.be/uCPQGncOx-Q) - video by Keits, the Lead Designer of Rumbleverse and seasons 2 and up of Killer Instinct. Important to watch if you are making a fighting game or really any competitive multiplayer game.
 - [UFGTX: How to Make Fighting Games](https://youtu.be/gpXganAM_qA) - Note: The person who gave this talk is Mike Z, the co-creator of Skullgirls. However, since they gave this talk, they have become a controversial figure for many reasons. Still, we felt as though this talk was still useful to view due to the amount of good advice it still contains.
 
 Core-A gaming is essentially required reading for anyone trying to make a fighting game https://www.youtube.com/playlist?list=PLWIbhIYLOq-T7XwgHe2y2hBE8Zr_yeODi
@@ -80,7 +94,9 @@ Once I was asked about how I implemented the AI in my game. I might share that i
 # Publishers
 - [Publisher Contracts: Red Flags](https://ltpf.ramiismail.com/publisher-contracts-red-flags/)
 - [Don't Make My Job Easy: Effectively Pitching to Publishers - GDC 2022](https://youtu.be/JZyCgChW0dc?si=Bxs-IfyX0FkvALWL)
+
 # Marketing
+- [The Best Game Trailer Template | Video Game Trailer Academy](https://youtu.be/2F5WBfqf0Sc)
 
 # Unsorted
 https://www.youtube.com/playlist?list=PLj34EySs1IeZLdaLTIoMvkoMkxUk2l74A
@@ -171,18 +187,7 @@ https://twitter.com/panthavma/status/1704235501023019079
 
 https://packetlosstest.com/
 
-https://www.youtube.com/watch?v=-_fP93WDq9w
-
-https://www.reddit.com/r/godot/comments/171rt0q/cursos_y_tutoriales_para_aprender_godot_engine/
-
 https://www.youtube.com/watch?v=2MB9cAwC0Nw
-
-I remember years ago when a single guy inpisred in what the people at Raodmap.sh did, made a roadmap in a similar fashion for Game Dev.
-Now, I came back to roadmap.sh and there is a Game Dev roadmap as well. Maybe it is from that guy?
-Client side: https://roadmap.sh/game-developer
-Server side: https://roadmap.sh/server-side-game-developer
-
-https://www.youtube.com/watch?v=w9W3GpFFIbM
 
 https://twitter.com/SEGA_AM_2/status/1775450937697378310/photo/1
 
@@ -242,8 +247,6 @@ https://www.youtube.com/@takimarueffect_tips
 
 https://lospec.com/ 
 
-https://www.youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU
-
 https://guide.handmadehero.org/ 
 
 https://www.pcgamer.com/gaming-industry/rpg-developer-owlcat-launches-free-game-dev-learning-resource-a-rising-tide-truly-lifts-all-ships/
@@ -258,13 +261,9 @@ https://youtu.be/m4Bwyb52W3E?si=BmK5BzB5VU-wrMvO
 
 https://docs.vulkan.org/tutorial/latest/Building_a_Simple_Engine/introduction.html
 
-https://www.youtube.com/playlist?list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF
-
 https://owencmyk.xyz/designing-fighting-games/hold-buffers/
 
 https://github.com/rcmagic/ZigFightingGame/
-
-https://youtube.com/playlist?list=PLcaQc6eQjXCzYski4EEr-iRfdkXkX-P3g
 
 https://animatorsresourcekit.blog/category/assets/reference/
 
@@ -274,8 +273,6 @@ https://animatorsresourcekit.blog/2018/02/20/challenger-jacobus/
 
 https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/
 
-https://youtu.be/uCPQGncOx-Q
-
 https://coloso.global/en/products/gameartist-remyhobo-us
 
 https://gamedev.tv/courses/blender-sprites
@@ -284,19 +281,13 @@ https://www.youtube.com/watch?v=oLu9I7tkfp8
 
 https://docs.google.com/presentation/d/1zP_ns92nUwSJP4fP8abTy2lWopL6h12rZl0AcpEG-jw/edit?usp=sharing
 
-https://youtu.be/TivpMwuGzeM
-
 https://coloso.global/en/products/gameartist-remyhobo-us 
-
-https://www.youtube.com/@moderndayjames/videos
 
 https://itch.io/c/7216862/godot-cheatsheets
 
 https://trueref.io/
 
 https://community.trueref.io/free_references
-
-https://www.youtube.com/watch?v=2F5WBfqf0Sc
 
 https://youtu.be/rRXd_fJowdk 
 
