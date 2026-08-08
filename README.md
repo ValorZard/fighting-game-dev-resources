@@ -65,6 +65,7 @@ https://bymuno.com/post/rollback
 ## General Game Design
 
 - ⭐ [Infil's Fighting Game Glossary](https://glossary.infil.net/)
+- [UFGTX: How to Make Fighting Games](https://youtu.be/gpXganAM_qA) - Note: The person who gave this talk is Mike Z, the co-creator of Skullgirls. However, since they gave this talk, they have become a controversial figure for many reasons. Still, we felt as though this talk was still useful to view due to the amount of good advice it still contains.
 
 Core-A gaming is essentially required reading for anyone trying to make a fighting game https://www.youtube.com/playlist?list=PLWIbhIYLOq-T7XwgHe2y2hBE8Zr_yeODi
 
@@ -83,8 +84,6 @@ Once I was asked about how I implemented the AI in my game. I might share that i
 
 # Unsorted
 https://www.youtube.com/playlist?list=PLj34EySs1IeZLdaLTIoMvkoMkxUk2l74A
-
-https://www.youtube.com/watch?v=gpXganAM_qA
 
 https://twitter.com/mauvecow/status/1182084533035757568?s=20 a very interesting thread about rollback implementation and what to consider
 
