@@ -46,9 +46,19 @@ https://bymuno.com/post/rollback
 
 # Graphics and Sound
 
-## Art/Animation
-- Rash's post on [how to retarget animations in Godot 4](https://www.tumblr.com/rashs-silly-little-games/794913858782478336/how-to-retarget-animations-in-godot-4x) (reuse an animation from one model to another)
+## Art/Animation - General
+*Note: While this repository is meant for advice that can help fighting game developers specifically, we thought it would still be nice to offer a curated selection of art resources for those who want to learn how to get started with art in games.*
+- ⭐ [12 Principles of Animation (Official Full Series)](https://www.youtube.com/watch?v=uDqjIdI4bF4)
+
+## Art/Animation - Real Time Action Combat
 - ⭐ [Making Fluid and Powerful Animations For 'Skullgirls' - GDC 2014](https://www.youtube.com/watch?v=Mw0h9WmBlsw) - Talk by the Lead Animator on the fighting game Skullgirls on how animators are done in that game.
+
+## Graphics Programming - Stylized
+- [From mobile to high-end PC: Achieving high quality anime style rendering on Unity](https://youtu.be/egHSE0dpWRw?si=eR1fYJKz4ENuQN8v) - Talk given by miHoYo's lead technical developer on how they achieve the look of Honkai/Genshin Impact
+- [From Mobile to Console: Genshin Impact's rendering technology on Console](https://youtu.be/00QugD5u1CU?si=N2TGlAd3AqzScsfr) - Another talk by miHoYo about how they achieved the look of Genshin Impact. (Note: even though the video's title is in Korean, the actual talk is in English.)
+- ⭐ [GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D](https://youtu.be/yhGjCzxJV3E?si=IP7BnpiQGauACJtE) - THE talk if you want to understand how Arc System Works achieves the look they've become famous for in their fighting games.
+- [Why Guilty Gear 3D Artists Don't Trust the Reference Sheet | Industry Insider Interview](https://youtu.be/vkcnOZ3eVL4?si=rrvXDoN5YBy5mQ6I) - Interview with someone who works in the Japanese video game industry on how to achieve that "3D Anime" look.
+- [Panagiotis Tsiapkolis: From watercolors to mechs: Stylized rendering and asset pipelines in Godot](https://www.youtube.com/watch?v=uyGPbbDktnE) - Talk given by the creator of the Castagne Engine, Panthavma.
 
 # Design
 
@@ -66,32 +76,25 @@ Also add Sugarpunch Design Works. Great for learning about animation basics and 
 
 Once I was asked about how I implemented the AI in my game. I might share that info here again. Don't know if it counts as learning material. Feel free to move it/remove it! [Twitter thread] https://twitter.com/AndreaDProjects/status/1086641395740352513?s=20
 
+# Publishers
+- [Publisher Contracts: Red Flags](https://ltpf.ramiismail.com/publisher-contracts-red-flags/)
+- [Don't Make My Job Easy: Effectively Pitching to Publishers - GDC 2022](https://youtu.be/JZyCgChW0dc?si=Bxs-IfyX0FkvALWL)
+# Marketing
 
 # Unsorted
-
-https://www.youtube.com/watch?v=QWmMd6ZDzBs&list=PL9xFJVKA6fkjAk06xpIbQ2WbwkA9CgsCH&index=2&t=0s
-
 https://www.youtube.com/playlist?list=PLj34EySs1IeZLdaLTIoMvkoMkxUk2l74A
 
 https://www.youtube.com/watch?v=gpXganAM_qA
 
 https://twitter.com/mauvecow/status/1182084533035757568?s=20 a very interesting thread about rollback implementation and what to consider
 
-https://youtu.be/uDqjIdI4bF4
-
 http://glossary.infil.net/
-
-https://manual.yoyogames.com/GameMaker_Language/GML_Reference/Networking/Networking.htm
 
 MarcDWyz🕹 — 2021-06-09 4:17 PM
 I did a Q&A about rollback netcode.
 ➡️  https://youtu.be/AT9gznRM860
 
-https://t.co/Q2B98DgzXb?amp=1
-
 https://twitter.com/GxGrainSon/status/1419275528838729736?s=19
-
-https://ltpf.ramiismail.com/publisher-contracts-red-flags/
 
 https://docs.google.com/document/d/1IeRLLBHUIly9UD5PxXf8sWmaB-lGyTwf/edit
 
@@ -115,8 +118,6 @@ https://www.youtube.com/playlist?list=PLwXxbJKDwxSUexU-RyPXHYSeq--8pXEON
 
 https://www.schellgames.com/blog/the-definitive-guide-to-playtest-questions
 
-https://youtu.be/JZyCgChW0dc
-
 https://rodzilla.itch.io/material-maker
 
 https://www.patreon.com/posts/vfx-breakdown-71191108
@@ -134,10 +135,6 @@ https://help.steampowered.com/en/faqs/view/60E5-5E13-712C-5315
 https://steamcommunity.com/sharedfiles/filedetails/?id=183672148
 
 https://www.gameuidatabase.com/index.php
-
-https://www.youtube.com/watch?v=egHSE0dpWRw
-
-https://www.youtube.com/watch?v=00QugD5u1CU
 
 https://www.youtube.com/watch?v=J-3avMBqJ9s
 
