@@ -37,6 +37,8 @@ Legend:
 - ⭐ [Repository of resources on game networking](https://github.com/0xFA11/MultiplayerNetworkingResources)
 - [Visual guide to how rollback network works](https://bymuno.com/post/rollback) - made by someone who worked on Rivals of Aether and Animation Versus
 - ⭐ [Rollback Netcode Pseudocode](https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9) - THE algorithm on how rollback netcode works
+- ⭐ [GekkoNet](https://github.com/HeatXD/GekkoNet) - Modern replacement/spiritual successor to GGPO.
+- [Choosing the right network model for your multiplayer game](https://mas-bandwidth.com/choosing-the-right-network-model-for-your-multiplayer-game/) - shows all of the different networking models you can have in your game. Choose the best one for your game!
 
 An interesting thread that I found on Twitter thanks to @Rod F https://yal.cc/preparing-your-game-for-deterministic-netcode/ 
 https://bymuno.com/post/rollback
