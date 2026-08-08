@@ -39,6 +39,7 @@ Legend:
 - ⭐ [Rollback Netcode Pseudocode](https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9) - THE algorithm on how rollback netcode works
 - ⭐ [GekkoNet](https://github.com/HeatXD/GekkoNet) - Modern replacement/spiritual successor to GGPO.
 - [Choosing the right network model for your multiplayer game](https://mas-bandwidth.com/choosing-the-right-network-model-for-your-multiplayer-game/) - shows all of the different networking models you can have in your game. Choose the best one for your game!
+- [8 Frames in 16ms: Rollback Networking in Mortal Kombat and Injustice 2 - GDC 2018](https://youtu.be/7jb0FOcImdg?si=t1JMQk3E8Efalw2L)
 
 An interesting thread that I found on Twitter thanks to @Rod F https://yal.cc/preparing-your-game-for-deterministic-netcode/ 
 https://bymuno.com/post/rollback
@@ -47,6 +48,7 @@ https://bymuno.com/post/rollback
 
 ## Art/Animation
 - Rash's post on [how to retarget animations in Godot 4](https://www.tumblr.com/rashs-silly-little-games/794913858782478336/how-to-retarget-animations-in-godot-4x) (reuse an animation from one model to another)
+- ⭐ [Making Fluid and Powerful Animations For 'Skullgirls' - GDC 2014](https://www.youtube.com/watch?v=Mw0h9WmBlsw) - Talk by the Lead Animator on the fighting game Skullgirls on how animators are done in that game.
 
 # Design
 
@@ -75,10 +77,6 @@ https://www.youtube.com/watch?v=gpXganAM_qA
 
 https://twitter.com/mauvecow/status/1182084533035757568?s=20 a very interesting thread about rollback implementation and what to consider
 
-https://www.youtube.com/watch?v=7jb0FOcImdg
-
-https://youtu.be/Mw0h9WmBlsw
-
 https://youtu.be/uDqjIdI4bF4
 
 http://glossary.infil.net/
@@ -98,8 +96,6 @@ https://ltpf.ramiismail.com/publisher-contracts-red-flags/
 https://docs.google.com/document/d/1IeRLLBHUIly9UD5PxXf8sWmaB-lGyTwf/edit
 
 https://www.youtube.com/watch?v=lytuRLkfhus
-
-https://gameworldobserver.com/2021/11/26/cloud-gaming-platform-anstream-arcade-launches-on-epic-games-store-with-over-1200-retro-titles/
 
 https://twitter.com/haydndalton/status/1541104969478246403?t=bmIYY5mKLKKTbAu4G90_7g&s=19
 
@@ -222,35 +218,11 @@ https://www.youtube.com/watch?v=eRVRioN4GwA
 
 https://youtu.be/9YSqhfjqfgs
 
-NoisyChain [GDS],  — 2025-02-24 2:55 PM
-Oh youtube recommended this video to me
-mattrified — 2025-02-24 2:59 PM
-yea...shitty but true...if it's not OBVIOSULY PROTOTYPE and in a weird middle zone, players get too distracted by it...so gameplay feedback turns into like...obvious feedback that starts to get annoying.
-Snicky — 2025-02-24 4:42 PM
-Question about the ugly prototype thing: What do I do if one of my goals with my prototype is to convince people to join my project to help build the full thing? Wouldn't I want it to be more presentable then?
-mattrified — 2025-02-24 4:59 PM
-that's the conundrum like...
-imo there're 3approaches...
-
-1.) You have a pitch deck that is beautiful and has images of what your prototype would look like if not ugly, etc.
-2.) You make it STUPIDLY clear if an element is "ugly" why it is or something
-3.)  You make a tiny tiny tiny vertical slice that you can make beautiful. 
-Gank — 2025-02-24 6:10 PM
-No you'd want your ideas to be communicated well and for the mechanics to be fun, you can accompany the prototype with screenshots or mood boards of what you want the game to look like but the visuals come after the mechanics
-mattrified — 2025-02-24 6:12 PM
-4th idea -- you do the really ugly prototype and then a secon, pretty vertical slice prototype; an "art" or "visual" prototype of sorts; that's similar to when Gank is saying too. 
-
-
-Jawad (MDragon) [ᨐᵉᵒʷ],  — 2025-02-25 6:27 PM
-To add on: "Art prototypes" are a thing. Eg, the Doom 2016 animation prototype depicting the feel and garnering internal excitement before production rlly began
-
 https://mathworld.wolfram.com/
 
 https://direct.mit.edu/books/oa-monograph/5572/The-Videogame-Industry-Does-Not-ExistWhy-We-Should
 
 https://www.youtube.com/watch?v=xsZk3c7Oxyw
-
-https://media.discordapp.net/attachments/723364485192089682/1377797192332349470/Captura_de_pantalla_2025-05-29_185436.png?ex=6a708160&is=6a6f2fe0&hm=b0b2128c17621afcd87a1219ab2d4aa7360ac11bb262307cb53cd0d90359f6ef&=&format=webp&quality=lossless&width=1321&height=880
 
 https://www.youtube.com/watch?v=CU-SZo2dMHk
 
@@ -284,13 +256,9 @@ https://owlcat.games/learning
 
 https://youtu.be/v1CqFQNNvHc?si=90_fioTa8_kGk0t4
 
-https://x.com/dessbian/status/1982824183630291156?s=46
-
 https://ci.itch.io/all-game-assets
 
 https://youtu.be/m4Bwyb52W3E?si=BmK5BzB5VU-wrMvO
-
-https://www.amazon.co.jp/-/en/3D格闘ゲームプログラミング-松浦-健一郎/dp/4797341807?crid=7Y76USKRZESQ&dib=eyJ2IjoiMSJ9.FZI2GCYQWU13dRUgeMBZX8IAxcbxaw87yFvC9dPFkjzsQVregut8ARgkRdyj4opeuwzRs9mX6BNAov44xxOFVAYl1KJ0RruueouMDQeyfQhdkshsfyUif9rd3yh3BrkKij2r0S7bbRkBpqKg8QTxxoad55z9jfcpma3gR_LVxEfLOQgEdVt6itudSuVSOKUjs7ZiXGxVbIkYKJ4zAMD56Mn5L9i6jCCqGbesWioYrAI.evVWQ8eMU7drDc7UiUubE9NN7xlJozHHM6fYxwadANs&dib_tag=se&keywords=格闘ゲーム&qid=1770040698&s=books&sprefix=格闘ゲーム%2Cstripbooks%2C128&sr=1-16
 
 https://docs.vulkan.org/tutorial/latest/Building_a_Simple_Engine/introduction.html
 
