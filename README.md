@@ -1,8 +1,10 @@
 # Fighting Game Development Resources
 Collection of resources about how to make fighting games of all types, sorted by categories.
 
+This list was put together by [Fighting Game Developer Community (FGDC) on Discord.](https://discord.gg/czwrzEA5XV)
+
 Legend:
-- ⭐ Key or high quality ressource
+- ⭐ Key or high quality resource
 
 ## Guidelines for adding new content
 1. Add an 1-3 sentence explanation of how this link or resource DIRECTLY relates to fighting games. 
