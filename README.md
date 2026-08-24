@@ -48,6 +48,7 @@ Legend:
 - ⭐ [GekkoNet](https://github.com/HeatXD/GekkoNet) - Modern replacement/spiritual successor to GGPO.
 - [Choosing the right network model for your multiplayer game](https://mas-bandwidth.com/choosing-the-right-network-model-for-your-multiplayer-game/) - shows all of the different networking models you can have in your game. Choose the best one for your game!
 - [8 Frames in 16ms: Rollback Networking in Mortal Kombat and Injustice 2 - GDC 2018](https://youtu.be/7jb0FOcImdg?si=t1JMQk3E8Efalw2L)
+- [Back to the Future! Working with Deterministic Simulation in 'For Honor' - GDC 2019](https://gdcvault.com/play/1026077/Back-to-the-Future-Working) - Turns out For Honor uses peer to peer rollback for it's 3D arena combat.
 
 An interesting thread that I found on Twitter thanks to @Rod F https://yal.cc/preparing-your-game-for-deterministic-netcode/ 
 https://bymuno.com/post/rollback
@@ -79,6 +80,7 @@ https://bymuno.com/post/rollback
 - ⭐ [Infil's Fighting Game Glossary](https://glossary.infil.net/)
 - [09 to '19: A Decade of Approachability in Fighting Games - GDC 2019](https://youtu.be/TivpMwuGzeM) - Talk given by one of the Iron Galaxy developers who worked on Killer Instinct seasons 2 and 3.
 - ⭐ [Game Balance Isn't Real](https://youtu.be/uCPQGncOx-Q) - video by Keits, the Lead Designer of Rumbleverse and seasons 2 and up of Killer Instinct. Important to watch if you are making a fighting game or really any competitive multiplayer game.
+- [Hayama's Fighting Game Database](https://hanagumi.denpa.cl/fightingdb/) - Best known database of all fighting games that exist on the internet.
 - [UFGTX: How to Make Fighting Games](https://youtu.be/gpXganAM_qA) - Note: The person who gave this talk is Mike Z, the co-creator of Skullgirls. However, since they gave this talk, they have become a controversial figure for many reasons. Still, we felt as though this talk was still useful to view due to the amount of good advice it still contains.
 
 Core-A gaming is essentially required reading for anyone trying to make a fighting game https://www.youtube.com/playlist?list=PLWIbhIYLOq-T7XwgHe2y2hBE8Zr_yeODi
