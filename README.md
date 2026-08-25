@@ -35,8 +35,9 @@ Legend:
 # Technical / Programming
 
 ## General Game Programming
-- [Gamedev Class - Gameplay Programming](https://www.youtube.com/watch?v=w9W3GpFFIbM) - Talk given by the creator of the Castagne Engine, Panthavma, about of couple of important game development concepts you should know, especially if you are using Godot.
+- [Gamedev Class - Gameplay Programming](https://www.youtube.com/watch?v=w9W3GpFFIbM) - Talk given by the creator of the Castagne Engine, Panthavma, about of couple of important game development concepts you should know, especially if you are using Godot. Part of a longer series of classes given at the University of Bordeaux's computer science association, also available in French.
 - [Math for Game Devs [2022]](https://www.youtube.com/playlist?list=PLImQaTpSAdsArRFFj8bIfqMk2X7Vlf3XF) - series by Freya Holmér, who is one of the best game dev youtubers when it comes to explaining important foundational concepts well.
+- [Specializing Godot: Castagne framework for fighting games – Panthavma – GodotCon 2024](https://www.youtube.com/watch?v=uYZMcPAzRms) - Talk given by the creator of the Castagne Engine, Panthavma, on how to adapt your general purpose tooling into a supercharged workflow for efficiency, which is the point of Castagne.
 
 ## Game Inputs
 - [Input Buffering, Action Canceling, and also Forbidden Knowledge](https://medium.com/@yosispring/input-buffering-action-canceling-and-also-forbidden-knowledge-47a3f8a95151)
@@ -45,9 +46,9 @@ Legend:
 
 - ⭐ [Repository of resources on game networking](https://github.com/0xFA11/MultiplayerNetworkingResources)
 - ⭐ [Netcode - Explaining how fighting games use delay-based and rollback netcode](https://words.infil.net/w02-netcode.html) - This is THE resource on how netcode in fighting games works. This article is really all you need to understand how to implement rollback in your own games from scratch.
-- [Visual guide to how rollback network works](https://bymuno.com/post/rollback) - made by someone who worked on Rivals of Aether and Animation Versus
 - ⭐ [Rollback Netcode Pseudocode](https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9) - THE algorithm on how rollback netcode works
 - ⭐ [GekkoNet](https://github.com/HeatXD/GekkoNet) - Modern replacement/spiritual successor to GGPO.
+- [Visual guide to how rollback network works](https://bymuno.com/post/rollback) - made by someone who worked on Rivals of Aether and Animation Versus
 - [Choosing the right network model for your multiplayer game](https://mas-bandwidth.com/choosing-the-right-network-model-for-your-multiplayer-game/) - shows all of the different networking models you can have in your game. Choose the best one for your game!
 - [8 Frames in 16ms: Rollback Networking in Mortal Kombat and Injustice 2 - GDC 2018](https://youtu.be/7jb0FOcImdg?si=t1JMQk3E8Efalw2L)
 - [Back to the Future! Working with Deterministic Simulation in 'For Honor' - GDC 2019](https://gdcvault.com/play/1026077/Back-to-the-Future-Working) - Turns out For Honor uses peer to peer rollback for it's 3D arena combat.
@@ -69,19 +70,22 @@ https://bymuno.com/post/rollback
 - [Create Animated Low Poly Characters in Blender (2024)](https://www.youtube.com/playlist?list=PLcaQc6eQjXCzYski4EEr-iRfdkXkX-P3g) - Step by step tutorial series on how to create your own stylized Blender character model and rig.
 
 ## Graphics Programming - Stylized/NPR
+- ⭐ [GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D](https://youtu.be/yhGjCzxJV3E?si=IP7BnpiQGauACJtE) - THE talk if you want to understand how Arc System Works achieves the look they've become famous for in their fighting games.
+- ⭐ [Line Rendering Deep Overview - Part 1 - Extraction](https://panthavma.com/articles/lines/deep-overview-extraction/) - State of the art on line rendering methods for video games by Panthavma, the creator of the Castagne Engine. Based on his PhD work in high quality stylized line rendering.
 - [From mobile to high-end PC: Achieving high quality anime style rendering on Unity](https://youtu.be/egHSE0dpWRw?si=eR1fYJKz4ENuQN8v) - Talk given by miHoYo's lead technical developer on how they achieve the look of Honkai/Genshin Impact
 - [From Mobile to Console: Genshin Impact's rendering technology on Console](https://youtu.be/00QugD5u1CU?si=N2TGlAd3AqzScsfr) - Another talk by miHoYo about how they achieved the look of Genshin Impact. (Note: even though the video's title is in Korean, the actual talk is in English.)
-- ⭐ [GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D](https://youtu.be/yhGjCzxJV3E?si=IP7BnpiQGauACJtE) - THE talk if you want to understand how Arc System Works achieves the look they've become famous for in their fighting games.
 - [Why Guilty Gear 3D Artists Don't Trust the Reference Sheet | Industry Insider Interview](https://youtu.be/vkcnOZ3eVL4?si=rrvXDoN5YBy5mQ6I) - Interview with someone who works in the Japanese video game industry on how to achieve that "3D Anime" look.
-- [Panagiotis Tsiapkolis: From watercolors to mechs: Stylized rendering and asset pipelines in Godot](https://www.youtube.com/watch?v=uyGPbbDktnE) - Talk given by the creator of the Castagne Engine, Panthavma.
+- [Panagiotis Tsiapkolis: From watercolors to mechs: Stylized rendering and asset pipelines in Godot](https://www.youtube.com/watch?v=uyGPbbDktnE) - Talk on practical stylized rendering given by the creator of the Castagne Engine, Panthavma, based on his academic work in collaboration with Ubisoft.
+- [Toon Shading Fundamentals - From Cel-Shading to bidirectional toon ramps](https://panthavma.com/articles/shading/toonshading/) - Overview of toon shading methods for video games by Panthavma, the creator of the Castagne Engine. Goes over the base concepts and useful extensions.
 
 # Design
 
 ## General Game Design
 
 - ⭐ [Infil's Fighting Game Glossary](https://glossary.infil.net/)
-- [09 to '19: A Decade of Approachability in Fighting Games - GDC 2019](https://youtu.be/TivpMwuGzeM) - Talk given by one of the Iron Galaxy developers who worked on Killer Instinct seasons 2 and 3.
 - ⭐ [Game Balance Isn't Real](https://youtu.be/uCPQGncOx-Q) - video by Keits, the Lead Designer of Rumbleverse and seasons 2 and up of Killer Instinct. Important to watch if you are making a fighting game or really any competitive multiplayer game.
+- ⭐ [Hayama's Fighting Game Database](https://hanagumi.denpa.cl/fightingdb/) - Very complete list of fighting games of all sizes.
+- [09 to '19: A Decade of Approachability in Fighting Games - GDC 2019](https://youtu.be/TivpMwuGzeM) - Talk given by one of the Iron Galaxy developers who worked on Killer Instinct seasons 2 and 3.
 - [Hayama's Fighting Game Database](https://hanagumi.denpa.cl/fightingdb/) - Best known database of all fighting games that exist on the internet.
 - [UFGTX: How to Make Fighting Games](https://youtu.be/gpXganAM_qA) - Note: The person who gave this talk is Mike Z, the co-creator of Skullgirls. However, since they gave this talk, they have become a controversial figure for many reasons. Still, we felt as though this talk was still useful to view due to the amount of good advice it still contains.
 
