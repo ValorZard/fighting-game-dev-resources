@@ -45,6 +45,7 @@ Legend:
 ## Networking
 
 - ⭐ [Repository of resources on game networking](https://github.com/0xFA11/MultiplayerNetworkingResources)
+- ⭐ [List of different networking resources for indie fighting game devs](https://docs.google.com/spreadsheets/d/1dhbjHUHXnQb2u5oL5_hObBW6BudO4Tug5oJanV_Fs9o/)
 - ⭐ [Netcode - Explaining how fighting games use delay-based and rollback netcode](https://words.infil.net/w02-netcode.html) - This is THE resource on how netcode in fighting games works. This article is really all you need to understand how to implement rollback in your own games from scratch.
 - ⭐ [Rollback Netcode Pseudocode](https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9) - THE algorithm on how rollback netcode works
 - ⭐ [GekkoNet](https://github.com/HeatXD/GekkoNet) - Modern replacement/spiritual successor to GGPO.
