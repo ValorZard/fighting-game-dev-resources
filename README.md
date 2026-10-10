@@ -53,10 +53,7 @@ Legend:
 - [Choosing the right network model for your multiplayer game](https://mas-bandwidth.com/choosing-the-right-network-model-for-your-multiplayer-game/) - shows all of the different networking models you can have in your game. Choose the best one for your game!
 - [8 Frames in 16ms: Rollback Networking in Mortal Kombat and Injustice 2 - GDC 2018](https://youtu.be/7jb0FOcImdg?si=t1JMQk3E8Efalw2L)
 - [Back to the Future! Working with Deterministic Simulation in 'For Honor' - GDC 2019](https://gdcvault.com/play/1026077/Back-to-the-Future-Working) - Turns out For Honor uses peer to peer rollback for it's 3D arena combat.
-
-An interesting thread that I found on Twitter thanks to @Rod F https://yal.cc/preparing-your-game-for-deterministic-netcode/ 
-https://bymuno.com/post/rollback
-
+- [Preparing your game for deterministic netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/) - Article written by the person who added rollback netcode to Rivals of Aether 1.
 # Graphics and Sound
 
 ## Art/Animation - General
