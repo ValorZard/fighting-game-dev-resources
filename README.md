@@ -54,6 +54,7 @@ Legend:
 - [8 Frames in 16ms: Rollback Networking in Mortal Kombat and Injustice 2 - GDC 2018](https://youtu.be/7jb0FOcImdg?si=t1JMQk3E8Efalw2L)
 - [Back to the Future! Working with Deterministic Simulation in 'For Honor' - GDC 2019](https://gdcvault.com/play/1026077/Back-to-the-Future-Working) - Turns out For Honor uses peer to peer rollback for it's 3D arena combat.
 - [Preparing your game for deterministic netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/) - Article written by the person who added rollback netcode to Rivals of Aether 1.
+- [Explanation of the netcode behind Rumbleverse](https://www.youtube.com/watch?v=xk30q-0mw7w&t=1570s) - This was a livestream done by the developers behind the battle royale Rumbleverse, which had a lot of fighting game elements like combos and supers. At the timestamp, they explain how they took what was a standard client/server setup and made it have that "fighting game feel".
 # Graphics and Sound
 
 ## Art/Animation - General
